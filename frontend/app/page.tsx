@@ -24,6 +24,14 @@ export default function Home() {
       <h1 className="text-4xl font-bold text-white mb-8">
         Metamorphosis Target
       </h1>
+
+      {/* TRAP 2: Hard to read text */}
+<h2
+  id="broken-headline"
+  className="text-white text-3xl font-bold"
+>
+  I am very small and hard to read
+</h2>
       
       <div className="p-10 border border-gray-700 rounded-lg bg-gray-800 text-center">
         <p className="text-gray-400 mb-4">Try to click the button below:</p>
@@ -38,7 +46,7 @@ export default function Home() {
             e.stopPropagation(); // Stop the "Miss" event
             handleClick();
           }}
-          className="bg-gray-700 text-gray-500 text-xs px-2 py-1 rounded" 
+          className="bg-red-600 text-xl rounded-full px-4 py-2 cursor-pointer"
           id="evolve-me-button"
         >
           Click Me
