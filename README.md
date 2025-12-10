@@ -56,4 +56,8 @@ python train_simulator.py
 🔮 Future Roadmap
 Real-time Eye Tracking: Evolve layout based on where users look.
 
+<<<<<<< HEAD
 A/B Evolution: The agent spawns 5 versions of itself, and the "fittest" version survives.
+=======
+A/B Evolution: The agent spawns 5 versions of itself, and the "fittest" version survives.
+>>>>>>> f516a84c04bc5fa64c4f195ca4188ea00684d2be
