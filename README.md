@@ -18,6 +18,20 @@ Metamorphosis is an **Autonomous Agentic Loop**.
 
 ---
 
+🔥 KEY FEATURES:
+
+Self-Healing UX: Detects "User Frustration" signals and evolves the UI automatically.
+
+Surgical Code Editing: Custom MCP Server that edits React ASTs (Abstract Syntax Trees), not just text.
+
+Event-Driven Architecture: Kestra orchestrates the "Sense -> Think -> Act" loop.
+
+Synthetic Intelligence: Trained on Oumi-generated datasets for optimal UX patterns.
+
+Safety First: Integrated with CodeRabbit for AI-on-AI code review.
+
+Platform Agnostic: Can be installed as a developer tool for any Next.js project.
+
 ## 🛠️ The Tech Stack (Infinity Stones)
 
 | Component | Technology | Role in Architecture |
@@ -29,6 +43,12 @@ Metamorphosis is an **Autonomous Agentic Loop**.
 | **The Body** | **Vercel** | Instant deployment of the "mutated" website. |
 
 ---
+
+⚡ FEATURES DEMO
+✅ Real-time "Frustration" Detection (Simulated via Kestra) 
+✅ Autonomous Component Refactoring (Button -> Better Button) 
+✅ General Purpose Editing (Fixes Headlines/Text automatically) 
+✅ Live "Hot Reload" Deployment
 
 ## ⚡ How to Run "Metamorphosis" Locally
 
